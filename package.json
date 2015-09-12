@@ -1,0 +1,16 @@
+{
+  "name": "cooger-style",
+  "version": "1.0.0",
+  "description": "My JS lint standard",
+  "main": "main.js",
+  "keywords": [
+    ""
+  ],
+  "author": "Greg Walker <cooger-style@darkcooger.net>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "mgwalker/cooger-style"
+  },
+  "blah": "blah"
+}
