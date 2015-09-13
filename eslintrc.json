@@ -15,7 +15,7 @@
 		"consistent-return": 1,
 		"curly": [ 2, "all" ],
 		"default-case": 2,
-		"dot-notation": [ 2, { "allowKeywords": false } ],
+		"dot-notation": [ 2, { "allowKeywords": true } ],
 		"dot-location": [ 2, "property" ],
 		"eqeqeq": [ 2, "smart" ],
 		"no-caller": 2,
